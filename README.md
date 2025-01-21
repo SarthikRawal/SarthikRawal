@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SarthikRawal
-- 👀 I’m interested in Web devlopment
+- 👀 I’m interested in Web development
 - 🌱 I’m currently working with JavaScript and related technologies
-- 💞️ I’m looking to collaborate on Web devlopment
 - 📫 How to reach me mail - sarthik32@gmail.com
 
 <!---
